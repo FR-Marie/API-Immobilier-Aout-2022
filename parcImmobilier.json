@@ -1,0 +1,102 @@
+ {
+    "appartements": [
+      {
+        "id": 1,
+        "Type": "Appartement",
+        "Localisation": "Grenoble",
+        "Photo": "public/img/appartements/appart-1.png",
+        "SurfaceInterieure": "120",
+        "SurfaceTerrain": "0",
+        "Description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+        "Prix": "150000",
+        "AdresseContact": "AGENCE IMMOPLUS, <br> 50, rue des Marguerites,<br>38000 GRENOBLE",
+        "TelephoneContact": "0102030405"
+      },
+      {
+        "id": 2,
+        "Type": "Appartement",
+        "Localisation": "Chambéry",
+        "Photo": "public/img/appartements/appart-2.png",
+        "SurfaceInterieure": "80",
+        "SurfaceTerrain": "0",
+        "Description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+        "Prix": "1250000",
+        "AdresseContact": "AGENCE IMMOPLUS <br> 50, rue des Lauriers, <br> 73000 CHAMBERY",
+        "TelephoneContact": "0102030405"
+      },
+      {
+        "id": 3,
+        "Type": "Appartement",
+        "Localisation": "VANNES",
+        "Photo": "public/img/appartements/appart-3.png",
+        "SurfaceInterieure": "80",
+        "SurfaceTerrain": "0",
+        "Description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+        "Prix": "1250000",
+        "AdresseContact": "AGENCE IMMOPLUS <br> 50, rue des Lys, <br> 56000 VANNES",
+        "TelephoneContact": "0102030405"
+      },
+      {
+        "id": 4,
+        "Type": "Appartement",
+        "Localisation": "Montpellier",
+        "Photo": "public/img/appartements/appart-4.png",
+        "SurfaceInterieure": "80",
+        "SurfaceTerrain": "0",
+        "Description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+        "Prix": "1250000",
+        "AdresseContact": "AGENCE IMMOPLUS <br> 50, rue des Rosiers, <br> 34000 MONTPELLIER",
+        "TelephoneContact": "0102030405"
+      }
+    ],
+   "maisons": [
+     {
+       "id": 1,
+       "Type": "Maison",
+       "Localisation": "Bourges",
+       "Photo": "public/img/maisons-villas/maison-1.png",
+       "SurfaceInterieure": "120",
+       "SurfaceTerrain": "2000",
+       "Description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+       "Prix": "150000",
+       "AdresseContact": "AGENCE IMMOPLUS, <br> 50, rue des Grenouilles,<br>18000 BOURGES",
+       "TelephoneContact": "0102030405"
+     },
+     {
+       "id": 2,
+       "Type": "Maison",
+       "Localisation": "Valras-Plage",
+       "Photo": "public/img/maisons-villas/maison-2.png",
+       "SurfaceInterieure": "80",
+       "SurfaceTerrain": "300",
+       "Description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+       "Prix": "1250000",
+       "AdresseContact": "AGENCE IMMOPLUS <br> 50, rue des Crapauds, <br> 34350 VALRAS-PLAGE",
+       "TelephoneContact": "0102030405"
+     },
+     {
+       "id": 3,
+       "Type": "Maison",
+       "Localisation": "Montpellier",
+       "Photo": "public/img/maisons-villas/maison-3.png",
+       "SurfaceInterieure": "80",
+       "SurfaceTerrain": "0",
+       "Description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+       "Prix": "1250000",
+       "AdresseContact": "AGENCE IMMOPLUS <br> 50, rue des Amphibiens, <br> 34000 MONTPELLIER",
+       "TelephoneContact": "0102030405"
+     },
+     {
+       "id": 4,
+       "Type": "Appartement",
+       "Localisation": "St-Uze",
+       "Photo": "public/img/maisons-villas/maison-4.png",
+       "SurfaceInterieure": "80",
+       "SurfaceTerrain": "0",
+       "Description": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested.Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+       "Prix": "1250000",
+       "AdresseContact": "AGENCE IMMOPLUS <br> 50, rue des Batraciens, <br> 34000 MONTPELLIER",
+       "TelephoneContact": "0102030405"
+     }
+   ]
+  }

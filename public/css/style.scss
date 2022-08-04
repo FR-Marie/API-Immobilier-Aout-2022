@@ -1,0 +1,35 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #575757;
+}
+
+h1{
+  color: orangered;
+  font-size: 60px;
+}
+h2{
+  color: orangered;
+  font-size: 40px;
+  background-color: orange;
+}
+h3{
+  color: orangered;
+  font-size: 20px;
+}
+
+.card{
+  box-shadow: -5px -5px 0px orange;
+}
+.card:hover{
+  box-shadow: -5px -5px 0px orangered;
+  background-color: #faf1e1;
+  transition: 0.5s;
+}
+.card-text{
+  color: orangered;
+}
+#strongAdds{
+  color: orange;
+}
